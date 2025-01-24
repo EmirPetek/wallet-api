@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This backend application is part of a digital wallet bank system. It manages user registrations, logins, and financial operations such as creating cards, making payments, and viewing transactions. The backend is implemented using **Spring Boot** and uses **MySQL** as the database.
+This backend application is part of a digital wallet bank system. It manages user registrations, logins, and financial operations such as creating cards, making payments, and viewing transactions. The backend is implemented using **Spring Boot** and uses **MySQL** as the database. Also Hibernate was used.
 
 ## Features
 
